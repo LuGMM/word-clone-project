@@ -1,7 +1,5 @@
 "use client";
 
-import Link from "next/link";
-
 import { Navbar } from "./navbar";
 import { TemplatesGallary } from "./templates-gallery";
 import { usePaginatedQuery } from "convex/react";

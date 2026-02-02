@@ -50,7 +50,6 @@ import { Separator } from "@/components/ui/separator";
 
 import { Input } from "@/components/ui/input";
 import { Button } from "@/components/ui/button";
-import { set } from "date-fns";
 
 const LineHeightButton = () => {
   const { editor } = useEditorStore();
